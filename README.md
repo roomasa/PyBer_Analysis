@@ -12,7 +12,7 @@ The overall goal of this project was to analyze ride data in different city type
 
 ## Results
 
-The differences in ride-sharing data among the different city types aare summarize below: 
+The differences in ride-sharing data among the different city types are summarized below: 
 
 1. Total number of rides were highest in the urban cities (n=1,625), followed by suburban (n=625) and were the lowest in rural cities (n=125).
 
