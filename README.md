@@ -1,6 +1,5 @@
 # PyBer_Analysis
 
-# School_District_Analysis
 
 ## Overview of Project
 
