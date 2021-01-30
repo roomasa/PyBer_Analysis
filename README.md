@@ -24,7 +24,7 @@ The differences in ride-sharing data among the different city types are summariz
 
 5. Average weekly fare shows slight variations for all city types but overall were highest for urban, followed by suburban and then rural. 
 
-
+!https://github.com/roomasa/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png
 
 ## Summary
 
