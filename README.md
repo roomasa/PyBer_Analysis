@@ -20,9 +20,9 @@ The differences in ride-sharing data among the different city types are summariz
 
 3. Total fares were over 9 times higher in urban cities compared to rural cities ($ 39,854 in urban cities and $ 4,328 in rural cities) and were almost half in suburban cities compared to urban cities (n=$19,356 in suburban cities).
 
-4. Average fare per ride and driver were lowest in the urban cities at $24.53 and $ 16.57 respectively. They were highest in rural cities ($ 34.62 for average fare per ride and $ 55.49 for average fare oer driver. In suburban cities the average fare per ride was $ 30.97 and the average fare per driver was $ 39.50. 
+4. Average fare per ride and driver were lowest in the urban cities at $24.53 and $ 16.57 respectively. They were highest in rural cities ($ 34.62 for average fare per ride and $ 55.49 for average fare per driver. In suburban cities the average fare per ride was $ 30.97 and the average fare per driver was $ 39.50. 
 
-5. Average weekly fare shows slight variations for all city types but overall were highest for urban, followed by suburban and then rural. 
+5. Average weekly fare shows slight variations for all city types but overall were highest for urban, followed by suburban and then rural (see figure below). 
 
 ![Pyber_Analysis](https://github.com/roomasa/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
